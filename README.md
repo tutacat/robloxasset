@@ -13,7 +13,7 @@ A tool used to download assets directly from Roblox.
 - Avatar Models
 
 ## How to use it:
-- Head over to [robloxasset.tk](https://robloxasset.tk/)
+- Head over to
 - Enter the Asset URL (e.g. https://www.roblox.com/catalog/1110654902/Example-Shirt)
 - Select the Asset Type (e.g. Clothing)
 - Press "Download Asset" and wait for it to download
